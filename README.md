@@ -1,2 +1,1 @@
-# hoc-git
-git cơ bản
+# git co ban
